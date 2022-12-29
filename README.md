@@ -4,6 +4,7 @@ Hello Odin!
 testing testing
 
 steps to add/edit
-1 must make the edit in the file
-2 must commit
-3 must push
+1 must make the edit in the file 
+2 must add
+3 must commit
+4 must push
